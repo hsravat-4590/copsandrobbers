@@ -88,3 +88,5 @@ CopsAndRobbers/obj/Debug/
 /captures
 .externalNativeBuild
 .cxx
+
+CopsAndRobbers/Platform/Android/launcher/release/
